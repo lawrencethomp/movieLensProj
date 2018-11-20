@@ -63,3 +63,7 @@ https://api.mongodb.com/python/current/api/pymongo/collection.html?highlight=upd
 
 When the files are done uploading, throw some reduce on there 
 http://book.pythontips.com/en/latest/map_filter.html
+Probably going to have to do some MOnary
+https://bitbucket.org/djcbeach/monary/wiki/Home
+https://stackoverflow.com/questions/16249736/how-to-import-data-from-mongodb-to-pandas
+

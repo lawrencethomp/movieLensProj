@@ -60,3 +60,6 @@ https://api.mongodb.com/python/current/api/pymongo/collection.html#pymongo.colle
 Use updateOne after an index https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/#db.collection.updateOne
 https://api.mongodb.com/python/current/api/pymongo/collection.html?highlight=update#pymongo.collection.Collection.update_one
 
+
+When the files are done uploading, throw some reduce on there 
+http://book.pythontips.com/en/latest/map_filter.html

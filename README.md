@@ -66,4 +66,4 @@ http://book.pythontips.com/en/latest/map_filter.html
 Probably going to have to do some MOnary
 https://bitbucket.org/djcbeach/monary/wiki/Home
 https://stackoverflow.com/questions/16249736/how-to-import-data-from-mongodb-to-pandas
-
+http://alexgaudio.com/2012/07/07/monarymongopandas.html

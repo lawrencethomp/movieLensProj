@@ -1,5 +1,5 @@
 # movieLensProj
-A COMP840 project about linear regression, and who likes what movies. A Lawrence and Oreva project for COMP840.
+A Machine Learning project about linear regression, and who likes what movies. A Lawrence and Oreva project for COMP840.
 
 
 **Linear Regression:** A Linear Equation between two points of data. 
@@ -30,6 +30,14 @@ A COMP840 project about linear regression, and who likes what movies. A Lawrence
    -  **PyMongo:** wraps the MongoDB database in Python code for easy use such as CRUD functionality.
    -  **MongoDB:** intakes the csv files to do data manipulation.
 
+
+## Getting the Data Together:
+***
+    1.)  Gathered the data from numerous sources - Kaggle, IMDB, and older MovieLens sets for demographics.
+    2.)  Found a way to manipulate data - used MongoDB to process for the purposes of added data manipulation.
+    3.)  Folded other CSVs into the MongoDB.
+    4.)  Engineered Features and shrunk data.
+    
 https://www.youtube.com/watch?v=CtKeHnfK5uA - 1st video
 Explanatory Variable:  The x var
 

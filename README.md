@@ -4,7 +4,7 @@ A Machine Learning project about linear regression, and who likes what movies. A
 
 **Linear Regression:** A Linear Equation between two points of data. 
 
-**What We Did:** Everyone likes movies, and we decided to ask the question: what determines whether or not someone would like a movie? </ br> In our work, liking a movie is defined as the movie scoring above the average on MovieLens, which is about 3.08. And so we are looking for factors that would affect it.
+**What We Did:** Everyone likes movies, and we decided to ask the question: what determines whether or not someone would like a movie?  In our work, liking a movie is defined as the movie scoring above the average on MovieLens, which is about 3.08. And so we are looking for factors that would affect it.
 
 ## The Properties: 
 ***
@@ -38,6 +38,9 @@ A Machine Learning project about linear regression, and who likes what movies. A
     3.)  Folded other CSVs into the MongoDB.
     4.)  Engineered Features and shrunk data.
     5.)  Ran and refactored data.
+
+## Running the Files:
+
 
 ## Hypothesis:
 You can find a correlation between certain movie scores from users and their genres -- comedy is going to score lower than other aggregates; film-Noir scores very high, horror scores low, and romantic comedy scores low

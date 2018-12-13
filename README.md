@@ -43,7 +43,7 @@ You can find a correlation between certain movie scores from users and their gen
 
 ## The Results: 
 ***
-    The most applicable source of data was the imdb_consensus boolean -- did the reviewers review the movie somewhere around the score <br> of the movieLens item? On its own, Prestige and Awards do not have enough weight to determine a good movie -- many great movies will not win an award. However, we did find that it helped when they were added to the features, slightly. We were able to compile median scores on the data, and found more so that the number of genres related to the score of the item. So naturally, the genres became the number of genres data.
-    We didn't quite have anything that could solve the problem as the class item in Titanic would, but the data did a decent job working for us. Were there a more reliable way to source things like director, studio, and budget, this would have gone a little differently.
+    The most applicable source of data was the imdb_consensus boolean -- did the reviewers review the movie somewhere around the score <br /> of the movieLens item? On its own, Prestige and Awards do not have enough weight to determine a good movie -- many great movies <br /> will not win an award. However, we did find that it helped when they were added to the features, slightly. We were able to <br /> compile median scores on the data, and found more so that the number of genres related to the score of the item. So naturally, the <br /> genres became the number of genres data. <br />
+    We didn't quite have anything that could solve the problem as the class item in Titanic would, but the data did a decent job <br /> working for us. Were there a more reliable way to source things like director, studio, and budget, this would have gone a little <br /> differently.
     
     

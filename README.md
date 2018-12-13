@@ -1,5 +1,5 @@
 # movieLensProj
-A COMP840 project about linear regression, and who likes what movies.
+A COMP840 project about linear regression, and who likes what movies. A Lawrence and Oreva project for COMP840.
 
 
 **Linear Regression:** A Linear Equation between two points of data. 
